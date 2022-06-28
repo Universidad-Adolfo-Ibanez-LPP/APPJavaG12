@@ -1,0 +1,17 @@
+/Users/Jose/Downloads/App2-main-2/app/src/main/java/com/uai/app/ui/MostrarDatosUI.java
+/Users/Jose/Downloads/App2-main-2/app/src/main/java/com/uai/app/exceptions/CSVNotFoundException.java
+/Users/Jose/Downloads/App2-main-2/app/src/main/java/com/uai/app/ui/EliminarLibroUI.java
+/Users/Jose/Downloads/App2-main-2/app/src/main/java/com/uai/app/ui/utils/UAIJFrame.java
+/Users/Jose/Downloads/App2-main-2/app/src/main/java/com/uai/app/ui/utils/UIBuilder.java
+/Users/Jose/Downloads/App2-main-2/app/src/main/java/com/uai/app/ui/MainMenuUI.java
+/Users/Jose/Downloads/App2-main-2/app/src/main/java/com/uai/app/ui/utils/AppUtils.java
+/Users/Jose/Downloads/App2-main-2/app/src/main/java/com/uai/app/exceptions/DataNotLoadedException.java
+/Users/Jose/Downloads/App2-main-2/app/src/main/java/com/uai/app/dominio/Libro.java
+/Users/Jose/Downloads/App2-main-2/app/src/main/java/com/uai/app/logic/SearchManager.java
+/Users/Jose/Downloads/App2-main-2/app/src/main/java/com/uai/app/logic/DataManager.java
+/Users/Jose/Downloads/App2-main-2/app/src/main/java/com/uai/app/files/FileManager.java
+/Users/Jose/Downloads/App2-main-2/app/src/main/java/com/uai/app/ui/AgregarLibroUI.java
+/Users/Jose/Downloads/App2-main-2/app/src/main/java/com/uai/app/App.java
+/Users/Jose/Downloads/App2-main-2/app/src/main/java/com/uai/app/logic/builders/LibroBuilder.java
+/Users/Jose/Downloads/App2-main-2/app/src/main/java/com/uai/app/dominio/enums/Tittles.java
+/Users/Jose/Downloads/App2-main-2/app/src/main/java/com/uai/app/exceptions/NotMainPanelLoadedException.java
